@@ -5,7 +5,7 @@
 > ***magnus ab integro saeclorum nascitur ordo.***<br/>
 > &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; the great cycle of ages is born anew.<br/>
 > ***Iam redit et Virgo, redeunt Saturnia regna:***<br/>
-> &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Now returns the Maid, returns the reign of Saturn:<br/>
+> &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Now returns the Maid *(= Astraea "star-maiden", the goddess of justice)*, returns the reign of Saturn *(= Chronos, the Time)*:<br/>
 > ***iam nova progenies caelo demittitur alto.***<br/>
 > &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; now from high heaven a new generation comes down.<br/>
 > ***Tu modo nascenti puero, quo ferrea primum desinet,***<br/>
@@ -17,5 +17,5 @@
 > — Publius Vergilius Maro ***Eclogae*** *(ca. 40 BCE)*<br/>
 
 ### Note:
-- **Seleucus I "Nicator"** — Mythologically son of Apollo, and the name Σέλευκος *Séleukos* probably means σέλας *sélas* "flame" + λευκός *leukós* "pale", "the Pale Flame," which directly points to σελήνη *selḗnē* "the Moon".
+- **Seleucus I "Nicator"** — Mythologically son of Apollo, and the name Σέλευκος *Séleukos* is probably related to σέλας *sélas* "flame" + λευκός *leukós* "pale", "the Pale Flame," which is the poetic description of σελήνη *selḗnē* "the Moon".
 - **Seleucid Era** — First non-cyclic chronology, which counted from Seleucus I's return and reign of Babylon in Oct 312 BCE.

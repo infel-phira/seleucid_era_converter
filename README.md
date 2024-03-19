@@ -5,7 +5,7 @@
 > ***magnus ab integro saeclorum nascitur ordo.***<br/>
 > &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; the great cycle of ages is born anew.<br/>
 > ***Iam redit et Virgo, redeunt Saturnia regna:***<br/>
-> &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Now returns the Maid *(= Astraea "star-maiden", the goddess of justice)*, returns the reign of Saturn *(= Chronos, the Time)*:<br/>
+> &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Now returns the Maid (Astraea), returns the reign of Saturn:<br/>
 > ***iam nova progenies caelo demittitur alto.***<br/>
 > &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; now from high heaven a new generation comes down.<br/>
 > ***Tu modo nascenti puero, quo ferrea primum desinet,***<br/>
